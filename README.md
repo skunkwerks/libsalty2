@@ -1,4 +1,4 @@
-# Salty
+# libsalty2
 
 **NOTICE**: This is a fork of the original, which is no longer maintained. Hence the `2` appended.
 
