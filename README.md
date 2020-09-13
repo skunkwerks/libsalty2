@@ -1,5 +1,7 @@
 # Salty
 
+NOTICE: This is a fork of the original, which is no longer maintained. Hence the `2` appended.
+
 Libsalty provides bindings to [libsodium](https://github.com/jedisct1/libsodium)
 for Elixir, based on [Erlang nif](http://erlang.org/doc/man/erl_nif.html).
 
@@ -9,7 +11,7 @@ Libsodium is licensed under [ISC License](https://github.com/jedisct1/libsodium/
 
 ## Hex
 
-This package is available through [Hex](https://hex.pm/packages/libsalty).
+This package is available through [Hex](https://hex.pm/packages/libsalty2).
 
 ## Requirements
 
